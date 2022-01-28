@@ -33,6 +33,7 @@ module.exports = {
     M_REPLY_VAR: process.env.M_REPLY_VAR === undefined ? 'true' : process.env.M_REPLY_VAR,
     AFNN: process.env.TAG_REPLY === undefined ? '919074309534@s.whatsapp.net' : process.env.TAG_REPLY,
     NBSK: process.env.ALL_NUMBER === undefined ? '916282344739' : process.env.ALL_NUMBER,
+    SOURAV_AUDIO_TITLE: process.env.AUDIO_TITLE === undefined ? 'sᴏᴜʀᴀᴠᴋʟ¹¹|ʀᴀɢᷨᴀͦɴͭᴏʀᴋ' : process.env.AUDIO_TITLE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
@@ -88,7 +89,7 @@ module.exports = {
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    ZEKAIS_API: "d2a8e1cf665bfddfffdcb530694fdde7",
+    ZEKAIS_API: "b53bfe6883aa83271af09d2748c29031",
     SUPPORT2: "916282344739",
     SUPPORT3: "919074309534"
 };
